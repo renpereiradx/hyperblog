@@ -1,2 +1,3 @@
 Esto es una prueba
 :)
+Go es un lenguaje muy interesante, por lo tanto es una de mis prioriades a aprender.
