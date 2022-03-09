@@ -51,7 +51,8 @@ body
 
 #footer
 {
-    background: #777;
+    /* background: #777; */
+    background: #37488b;
     text-align: center;
     color: white;
     padding: 00.5em;
